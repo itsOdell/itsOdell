@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Odell 👋
+![ink_mountain_by_umeairt_dg12dzn](https://github.com/itsOdell/itsOdell/assets/75822755/c7979196-4a9c-4638-9f91-e6fc605b55d6)
 
 <!--
 **itsOdell/itsOdell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
